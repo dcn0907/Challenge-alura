@@ -1,0 +1,151 @@
+body{
+margin: 0px;
+padding: 0px;
+background: #E5E5E5;
+}
+.container{
+    margin: auto;
+    width: 1440px;
+    height: 1024px;
+    padding: 5px;
+    background: #E5E5E5;
+}
+.logo{
+    width: 31.09px;
+    height: 48px
+    float: left;
+    margin-left: 0px;
+    background:#E5E5E5;
+}
+.left{
+    float: left;
+    width: 60%;
+    height: 500px;
+    border-radius: 24px;
+    background:#E5E5E5;
+}
+.right{
+    height: 900px;
+    width: 400px;
+    margin-left: 1300px;
+    margin-top: 40px;
+    border-radius: 32px;
+    background: #FFFFFF
+    
+}
+.left-button{
+    float: left;
+    margin-top: 0%;
+    width: 70%;
+    height: auto;
+    border-radius:24px;
+    background: #E5E5E5;
+}
+.logoimg{
+    margin-top: 0%;
+    margin-left: 36.67%;
+    margin-right: 37.43%;
+    float: inherit;
+}
+.title{
+    margin-left: 17%;
+    float: inherit;
+}
+.text-input{
+    width: 577px;
+    height: 48px;
+    border: none;
+    margin-left: 240px;
+    margin-top: 100px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: Arial;
+    line-height: 150%;
+    background: #E5E5E5;
+    /* identical to box height, or 48px */
+    
+    
+    /* Dark blue/dark-blue-300 */
+    
+    color: #0A3871;
+    overflow-wrap: break-word;
+    border-line: none;
+    
+}
+#imgDer{
+    margin-top: 60%;
+    width: 90%;
+    height: auto;
+    margin-left: 2%;
+}
+#texto{
+    height: 58px;
+    width: 336px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #343A40;
+    font-weight: 700;
+}
+#texto2{
+    height: 48px;
+    width: 336px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: nullpx;
+    outline: none;
+    font-size: 24px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+#btn-encriptar{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 24px;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    background: #0A3871;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+#btn-desencriptar{
+    margin-left: 0px;
+    margin-top: -50%;
+    padding: 24px;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    background: #D8DFE8;
+    color: #0A3871;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+#copiar{
+    height: 67px;
+    width: 288px;
+    margin-left: 50px;
+    margin-top: 24px;
+    border-radius: 24px;
+    
+}
+.pieDePagina{
+margin-bottom: 100%;
+margin-right: 80%;
+}
+
